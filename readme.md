@@ -2,6 +2,8 @@
 
 this is where we want to make conflict (edit this line with something else)
 
-# Sijia Fang 2020.10.01
 
-Yu Sun make edit here, let's try whether this will work to make conflict
+# Yu Sun 2020.10.01
+
+- Nice setup of the repository. I found some online Shell notes and put into your repository.
+
